@@ -1,6 +1,6 @@
 package com.assessment.assescor.helper;
 
-import com.assessment.assescor.User;
+import com.assessment.assescor.entity.User;
 import org.apache.commons.csv.CSVFormat;
 import org.apache.commons.csv.CSVParser;
 import org.apache.commons.csv.CSVRecord;

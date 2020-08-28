@@ -1,7 +1,7 @@
 com/assessment/assescor/ResponseMessage.class
 com/assessment/assescor/helper/CSVHelper.class
-com/assessment/assescor/User.class
-com/assessment/assescor/CSVController.class
-com/assessment/assescor/UserRepository.class
+com/assessment/assescor/repository/UserRepository.class
+com/assessment/assescor/entity/User.class
+com/assessment/assescor/controller/CSVController.class
 com/assessment/assescor/RestServiceApplication.class
-com/assessment/assescor/CSVService.class
+com/assessment/assescor/service/CSVService.class

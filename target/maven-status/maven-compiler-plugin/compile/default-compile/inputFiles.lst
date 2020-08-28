@@ -1,7 +1,7 @@
-/home/raghu/Downloads/assecor-assessment-backend/src/main/java/com/assessment/assescor/User.java
 /home/raghu/Downloads/assecor-assessment-backend/src/main/java/com/assessment/assescor/ResponseMessage.java
+/home/raghu/Downloads/assecor-assessment-backend/src/main/java/com/assessment/assescor/service/CSVService.java
 /home/raghu/Downloads/assecor-assessment-backend/src/main/java/com/assessment/assescor/RestServiceApplication.java
-/home/raghu/Downloads/assecor-assessment-backend/src/main/java/com/assessment/assescor/UserRepository.java
-/home/raghu/Downloads/assecor-assessment-backend/src/main/java/com/assessment/assescor/CSVService.java
+/home/raghu/Downloads/assecor-assessment-backend/src/main/java/com/assessment/assescor/entity/User.java
+/home/raghu/Downloads/assecor-assessment-backend/src/main/java/com/assessment/assescor/repository/UserRepository.java
 /home/raghu/Downloads/assecor-assessment-backend/src/main/java/com/assessment/assescor/helper/CSVHelper.java
-/home/raghu/Downloads/assecor-assessment-backend/src/main/java/com/assessment/assescor/CSVController.java
+/home/raghu/Downloads/assecor-assessment-backend/src/main/java/com/assessment/assescor/controller/CSVController.java
