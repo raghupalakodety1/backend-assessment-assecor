@@ -5,7 +5,7 @@
 $ mvn spring-boot:run
 
 
-**GET** /users
+**GET** /api/csv/users
 ```json
 [{
 "id" : 1,
@@ -20,7 +20,7 @@ $ mvn spring-boot:run
 }]
 ```
 
-**GET** /users/{id}
+**GET** /api/csv/users/{id}
 
 *Hinweis*: als **ID** kann hier die Zeilennummer verwendet werden.
 ```json
@@ -34,7 +34,7 @@ $ mvn spring-boot:run
 }
 ```
 
-**GET** /users/color/{color}
+**GET** /api/csv/users/color/{color}
 ```json
 [{
 "id" : 1,
